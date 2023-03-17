@@ -1,2 +1,2 @@
-# FoodMumch
+# FoodMunch
 Food Munch Website
